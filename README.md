@@ -1,1 +1,2 @@
-# Random_game
+# Random_game in which multile users can play ...it is just basic game guessing the numbers ....
+The user who tells in less number of gusses will win the game(Its need some luck to win!!!!!)
